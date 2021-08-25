@@ -1,0 +1,35 @@
+<proizvodi >
+<proizvod>
+    <Kategorija naziv='Stolice'/>
+    <Cena valuta='RSD'>12000</Cena>
+    <Tekst>Gejmerska stolica za racunar</Tekst>
+    <Oznaka>stolica</Oznaka>
+    <Oznaka>gejmerska</Oznaka>
+    <Akcija Cena='9999' datum='21-07-2021'></Akcija>
+</proizvod>
+<proizvod>
+    <Kategorija naziv='Stolovi'/>
+    <Cena valuta='RSD'>22500</Cena>
+    <Tekst>Radni sto 150cm x 70cm.</Tekst>
+    <Oznaka>sto</Oznaka>
+    <Oznaka>gejming</Oznaka>
+    <Akcija Cena='17500' datum='29-04-2021'></Akcija>
+</proizvod>
+<proizvod>
+    <Kategorija naziv='Laptopovi'/>
+    <Cena valuta='RSD'>85000</Cena>
+    <Tekst>HP Laptop Pavilion Gaming 15-dk1027nm 1Z9N0EA 15,6"/Intel Core i5 processor </Tekst>
+    <Oznaka>laptop</Oznaka>
+    <Oznaka>gejming</Oznaka>
+    <Akcija Cena='79900' datum='31-08-2021'/>
+    <Akcija Cena='74999' datum='01-06-2021'/>
+</proizvod>
+<proizvod>
+    <Kategorija naziv='Monitori'/>
+    <Cena valuta='RSD'>15000</Cena>
+    <Tekst>Philips V Line 273V7QDSB/00 IPS monitor 27"</Tekst>
+    <Oznaka>monitor</Oznaka>
+    <Oznaka>philips</Oznaka>
+    <Akcija Cena='12000' datum='01-07-2021'></Akcija>
+</proizvod>
+</proizvodi>
