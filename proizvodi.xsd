@@ -31,7 +31,7 @@
       <xs:simpleContent>
         <xs:extension base="stringtype">
           <xs:attribute name="Cena" type="nonNegativeInt" use="required" />
-          <xs:attribute name="DatumIsteka" type="date" use="required" />
+          <xs:attribute name="datum" type="date" use="required" />
         </xs:extension>
       </xs:simpleContent>
     </xs:complexType>
