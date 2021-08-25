@@ -6,6 +6,7 @@
 <!ELEMENT Oznaka(#PCDATA)>
 <!ELEMENT Akcija (#PCDATA)>
 
+
 <!ATTLIST Kategorija nazivKategorije (Stolice | Stolovi | Laptopovi | Monitori ) #REQUIRED>
 <!ATTLIST Cena valuta (RSD | EUR) "din"  #REQUIRED>
 <!ATTLIST Akcija Cena CDATA #REQUIRED>
