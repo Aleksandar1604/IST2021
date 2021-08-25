@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <proizvodi>
+=======
+<!DOCTYPE proizvodi SYSTEM "proizvodi.dtd">       
+<proizvodi >
+>>>>>>> TreciZadatak
 <proizvod>
     <Kategorija naziv='Stolice'/>
     <Cena valuta='RSD'>12000</Cena>
@@ -9,7 +14,7 @@
     <Akcija Cena='9999' datum='21-07-2021'></Akcija>
 </proizvod>
 <proizvod>
-    <Kategorija naziv='Stolovi'/>
+    <Kategorija naziv='Stolovi'/>               
     <Cena valuta='RSD'>22500</Cena>
     <Tekst>Radni sto 150cm x 70cm.</Tekst>
     <Oznaka>sto</Oznaka>
