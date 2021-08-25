@@ -1,4 +1,5 @@
-<proizvodi >
+<?xml version="1.0" encoding="utf-8"?>
+<proizvodi>
 <proizvod>
     <Kategorija naziv='Stolice'/>
     <Cena valuta='RSD'>12000</Cena>
