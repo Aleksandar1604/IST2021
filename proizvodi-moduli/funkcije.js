@@ -34,7 +34,7 @@ if(proizvodi.length>0){
 
 if(kategorije.find(x=>x.startsWith(NoviProizvod.kategorija)))
 {
-    if(NoviProizvod.drugacena!="" &&   NoviProizvod.datum!="")
+    if(NoviProizvod.drugacena!=""&&NoviProizvod.datum!="")
     {
         let akcije=[];
         let akcija={'id_akcije':1,'drugacena':parseFloat(NoviProizvod.drugacena),'datum':NoviProizvod.datum};
