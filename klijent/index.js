@@ -155,6 +155,10 @@ axios.post("http://localhost:3000/SnimiIzmene",{
 res.redirect("/SviProizvodi"); 
 });
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cea151234440ae63953fb91451e9c5c548745f3b
 app.listen(port,()=>{console.log(`Klijent startovan na portu ${port}`)});
 
 

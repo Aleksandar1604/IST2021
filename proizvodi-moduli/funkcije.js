@@ -34,7 +34,11 @@ if(proizvodi.length>0){
 
 if(kategorije.find(x=>x.startsWith(NoviProizvod.kategorija)))
 {
+<<<<<<< HEAD
     if(NoviProizvod.drugacena!=""&&NoviProizvod.datum!="")
+=======
+    if(NoviProizvod.drugacena!="" &&   NoviProizvod.datum!="")
+>>>>>>> cea151234440ae63953fb91451e9c5c548745f3b
     {
         let akcije=[];
         let akcija={'id_akcije':1,'drugacena':parseFloat(NoviProizvod.drugacena),'datum':NoviProizvod.datum};
@@ -70,6 +74,10 @@ if(kategorije.find(x=>x.startsWith(NoviProizvod.kategorija)))
 
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> cea151234440ae63953fb91451e9c5c548745f3b
 exports.IzbrisiProizvod=(id)=>
 {
     if(this.SviProizvodi().find(x=>x.id==id))
