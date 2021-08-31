@@ -70,6 +70,7 @@ if(kategorije.find(x=>x.startsWith(NoviProizvod.kategorija)))
 
 }
 
+
 exports.IzbrisiProizvod=(id)=>
 {
     if(this.SviProizvodi().find(x=>x.id==id))

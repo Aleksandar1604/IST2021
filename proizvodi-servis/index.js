@@ -56,5 +56,6 @@ app.post('/SnimiIzmene',(request,response)=>
     response.end('Snimljeno je!!!');
 });
 
+
 app.listen(port,()=>{console.log(`Startovan server na portu ${port}`)});
 
